@@ -8,10 +8,9 @@
 推荐书籍可以点击 -> [这里](https://github.com/sorenduan/awesome-java-books/issues)
 
 [![awesome-java-books](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sorenduan/awesome-java-books)
-
 [![GitHub stars](https://img.shields.io/github/stars/sorenduan/awesome-java-books.svg?label=Stars)](https://github.com/sorenduan/awesome-java-books/stargazers)
-
-
+[![GitHub watchers](https://img.shields.io/github/watchers/sorenduan/awesome-java-books.svg?label=Watchers)](https://github.com/sorenduan/awesome-java-books/watchers)
+[![GitHub forks](https://img.shields.io/github/forks/sorenduan/awesome-java-books.svg?label=Forks)](https://github.com/sorenduan/awesome-java-books/fork)
 
 
 <h3>目录：</h3>
