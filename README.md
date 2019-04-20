@@ -7,6 +7,8 @@
 
 推荐书籍可以点击 -> [这里](https://github.com/sorenduan/awesome-java-books/issues)
 
+[![awesome-java-books](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sorenduan/awesome-java-books)
+
 <h3>目录：</h3>
 
 * [入门书籍](https://github.com/sorenduan/awesome-java-books#入门书籍)
