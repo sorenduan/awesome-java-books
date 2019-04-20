@@ -11,7 +11,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/sorenduan/awesome-java-books.svg?label=Stars)](https://github.com/sorenduan/awesome-java-books/stargazers)
 [![GitHub watchers](https://img.shields.io/github/watchers/sorenduan/awesome-java-books.svg?label=Watchers)](https://github.com/sorenduan/awesome-java-books/watchers)
 [![GitHub forks](https://img.shields.io/github/forks/sorenduan/awesome-java-books.svg?label=Forks)](https://github.com/sorenduan/awesome-java-books/fork)
-
+[![GitHub followers](https://img.shields.io/github/followers/sorenduan.svg?label=Followers)](https://github.com/sorenduan)
 
 <h3>目录：</h3>
 
