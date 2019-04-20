@@ -9,6 +9,11 @@
 
 [![awesome-java-books](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sorenduan/awesome-java-books)
 
+[![GitHub stars](https://img.shields.io/github/stars/sorenduan/awesome-java-books.svg?label=Stars)](https://github.com/sorenduan/awesome-java-books/stargazers)
+
+
+
+
 <h3>目录：</h3>
 
 * [入门书籍](https://github.com/sorenduan/awesome-java-books#入门书籍)
