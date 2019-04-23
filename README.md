@@ -67,8 +67,11 @@
 
     
 
+    
+
 ## 入门书籍
 
+ * [《明解Java》](https://www.coderxing.com/r.php?r=https://u.jd.com/TA6z3m) - 豆瓣评分 8.5
  * [《Java从入门到精通（第4版 附光盘）》](https://www.coderxing.com/r.php?r=https://u.jd.com/7urNtH) - 豆瓣评分 6
  * [《入门很简单丛书：Java Web开发入门很简单》](https://www.coderxing.com/r.php?r=https://u.jd.com/2dDnsY)
  * [《程序员炼成记 从小白到工程师》](https://www.coderxing.com/r.php?r=https://u.jd.com/7zm17P)
