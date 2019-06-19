@@ -5,7 +5,9 @@
 
 涵盖领域：Java入门书籍，Java基础及进阶书籍，框架与中间件，架构设计，设计模式，数学与算法，JVM周边语言，项目管理&领导力&流程，职业素养与个人成长，格局与视野，面试参考书等。
 
-推荐书籍可以点击 -> **[这里](https://github.com/sorenduan/awesome-java-books/issues)**
+推荐书籍可以点击 -> **[点击这里](https://github.com/sorenduan/awesome-java-books/issues)**
+
+书籍列表 -> **[点击这里](https://github.com/sorenduan/awesome-java-books/blob/master/README.md)**
 
 [![awesome-java-books](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sorenduan/awesome-java-books)
 [![GitHub stars](https://img.shields.io/github/stars/sorenduan/awesome-java-books.svg?label=Stars)](https://github.com/sorenduan/awesome-java-books/stargazers)
