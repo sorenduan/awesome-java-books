@@ -6,7 +6,7 @@
 
 :thumbsup: :thumbsup: :thumbsup:  推荐一个在线搜课程的神器，“[课程搜](https://www.kcsou.com)”：[https://www.kcsou.com/s_Java/](https://www.kcsou.com/s_Java/)
 
-
+-------------
 
 本文档目前已收录 <b>277</b>本 Java相关领域经典技术书籍，从初级开发者到资深架构师，涵盖 Java 从业者的各个阶段，并持续更新。
 
