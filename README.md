@@ -1,6 +1,11 @@
 
 # Java 技术书籍大全
 
+:thumbsup: :thumbsup: :thumbsup:  推荐一个在线搜课程的神器，“[课程搜](https://www.kcsou.com)”：[https://www.kcsou.com/s_Java/](https://www.kcsou.com/s_Java/)
+
+-------------
+
+
 本文档目前已收录 <b>277</b>本 Java相关领域经典技术书籍，从初级开发者到资深架构师，涵盖 Java 从业者的各个阶段，并持续更新。
 
 涵盖领域：Java入门书籍，Java基础及进阶书籍，框架与中间件，架构设计，设计模式，数学与算法，JVM周边语言，项目管理&领导力&流程，职业素养与个人成长，格局与视野，面试参考书等。
