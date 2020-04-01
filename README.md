@@ -87,12 +87,11 @@
  * [《大话Java：程序设计从入门到精通（含DVD光盘1张）》](https://www.coderxing.com/r.php?r=https://u.jd.com/td3bUo)
  * [《Java语言袖珍指南（第二版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/HOFu01)
 
-
 ## 基础书籍
 
- * [《Java编程思想（第4版） [thinking in java]》](https://www.coderxing.com/r.php?r=https://u.jd.com/ajylTp) - 豆瓣评分 9.1
- * [《Java核心技术 卷I：基础知识（原书第10版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/tp87o1) - 豆瓣评分 8.2
- * [《Java核心技术卷II：高级特性（原书第10版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/fYGMsC) - 豆瓣评分 7.7
+ * ~~[《Java编程思想（第4版） [thinking in java]》](https://www.coderxing.com/r.php?r=https://u.jd.com/ajylTp) - 豆瓣评分 9.1~~
+ * ~~[《Java核心技术 卷I：基础知识（原书第10版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/tp87o1) - 豆瓣评分 8.2~~
+ * ~~[《Java核心技术卷II：高级特性（原书第10版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/fYGMsC) - 豆瓣评分 7.7~~
 
 
 ### 多线程与并发
@@ -224,7 +223,7 @@
 
 
 ### Spring家族
- * [《Spring微服务实战》](https://www.coderxing.com/r.php?r=https://u.jd.com/ohN8uh) - 豆瓣评分 8.3
+ * ~~[《Spring微服务实战》](https://www.coderxing.com/r.php?r=https://u.jd.com/ohN8uh) - 豆瓣评分 8.3~~
  * [《Spring Cloud微服务实战》](https://www.coderxing.com/r.php?r=https://u.jd.com/z1QvAP) - 豆瓣评分 7.9
  * [《深入理解Spring Cloud与微服务构建》](https://www.coderxing.com/r.php?r=https://u.jd.com/FfCbxt) - 豆瓣评分 7.7
  * [《MyBatis技术内幕》](https://www.coderxing.com/r.php?r=https://u.jd.com/wAPeEw) - 豆瓣评分 7.6
@@ -241,6 +240,8 @@
  * [《互联网轻量级SSM框架解密：Spring、Spring MVC、MyBatis源码深度剖析》](https://www.coderxing.com/r.php?r=https://u.jd.com/HO244A)
  * [《Spring学习指南 第3版》](https://www.coderxing.com/r.php?r=https://u.jd.com/O9L5Nb)
  * [《精通Spring MVC 4》](https://www.coderxing.com/r.php?r=https://u.jd.com/k4WSg3)
+ * 一步一步学Spring Boot微服务项目实战
+ * Spring Boot开发实战
 
 
 ### 高并发
