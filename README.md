@@ -87,6 +87,10 @@
  * [《Java轻松学》](https://www.coderxing.com/r.php?r=https://u.jd.com/zMDeI7)
  * [《大话Java：程序设计从入门到精通（含DVD光盘1张）》](https://www.coderxing.com/r.php?r=https://u.jd.com/td3bUo)
  * [《Java语言袖珍指南（第二版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/HOFu01)
+ * [《Java SE 11 Programmer I Certification Guide 》](https://www.manning.com/books/java-se-11-programmer-i-certification-guide)
+ * [《The Well-Grounded Java Developer, Second Edition 》](https://www.manning.com/books/the-well-grounded-java-developer-second-edition)
+ * [《Helidon in Action 》](https://www.manning.com/books/helidon-in-action)
+ * [《How to Read Java 》](https://www.manning.com/books/how-to-read-java)
 
 
 ## 基础书籍
