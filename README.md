@@ -89,6 +89,8 @@
  * [《Java语言袖珍指南（第二版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/HOFu01)
  * [《Java SE 11 Programmer I Certification Guide 》](https://www.manning.com/books/java-se-11-programmer-i-certification-guide)
  * [《The Well-Grounded Java Developer, Second Edition 》](https://www.manning.com/books/the-well-grounded-java-developer-second-edition)
+ * [《Helidon in Action 》](https://www.manning.com/books/helidon-in-action)
+ * [《How to Read Java 》](https://www.manning.com/books/how-to-read-java)
 
 
 ## 基础书籍
